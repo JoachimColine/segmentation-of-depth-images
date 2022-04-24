@@ -1,0 +1,11 @@
+Assessing model...
+--- Validation ---
+iou       = 0.91382694
+precision = 0.95549726
+recall    = 0.9548175
+Assessing model...
+--- Test ---
+iou       = 0.9164624
+precision = 0.9580418
+recall    = 0.9550992
+
